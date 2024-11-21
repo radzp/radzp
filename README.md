@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**radzp/radzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+- 🎓 Computer Science student
+- 💻 Passionate about Frontend Web Development
+- 🌐 A foundational background in backend technologies
+  
+My goal is to design and code solutions that leave a lasting impact. When developing websites, I enjoy adding a personal touch to enhance the user experience, and I would love nothing more!
 
-Here are some ideas to get you started:
+## Languages and Frameworks 
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,javascript,css,scss,bootstrap"/> <br>
+    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,postman,docker,vscode,github,git"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
