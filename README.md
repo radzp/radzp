@@ -1,20 +1,12 @@
 ## Hi there 👋
 
-### 🌟 About Me
+### About Me
 - 🎓 Computer Science student
-- 💻 Passionate about Frontend Web Development
-- 🌐 A foundational background in backend technologies
+- 💻 Passionate about Full Stack Development
   
-My goal is to design and code solutions that leave a lasting impact. When developing websites, I enjoy adding a personal touch to enhance the user experience, and I would love nothing more!
+My goal is to design and code solutions that leave a lasting impact. I focus on creating backend solutions that are not only secure and well-structured but also aligned with the latest technological advancements. When developing websites, I enjoy adding a personal touch to enhance the user experience, and I would love nothing more!
 
-### 🛠️ Languages and Frameworks 
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,javascript,css,scss,bootstrap"/> <br>
-    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,postman,docker,vscode,github,git"/>
-</div>
-
-### 📫 How to Reach Me
+### How to Reach Me
 - 📧 Email: [anne.paczesna@gmail.com](mailto:anne.paczesna@gmail.com)
 
 
